@@ -28,7 +28,7 @@
   "spawners": {
     "type": "thedigimod:chapmon",
     "weight": 35,
-    "minCount": 1,
+    "minCount": 3,
     "maxCount": 5
   }
 }
