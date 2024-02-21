@@ -9,8 +9,8 @@
   ],
   "spawners": {
     "type": "thedigimod:lopmon",
-    "weight": 25,
-    "minCount": 4,
-    "maxCount": 8
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 5
   }
 }

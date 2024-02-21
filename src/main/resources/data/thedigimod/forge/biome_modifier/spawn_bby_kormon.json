@@ -13,8 +13,8 @@
   ],
   "spawners": {
     "type": "thedigimod:koromon",
-    "weight": 30,
-    "minCount": 6,
-    "maxCount": 10
+    "weight": 35,
+    "minCount": 1,
+    "maxCount": 5
   }
 }

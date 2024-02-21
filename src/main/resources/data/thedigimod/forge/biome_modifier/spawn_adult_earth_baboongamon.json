@@ -14,8 +14,8 @@
   ],
   "spawners": {
     "type": "thedigimod:baboongamon",
-    "weight": 20,
-    "minCount": 3,
-    "maxCount": 5
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 3
   }
 }
