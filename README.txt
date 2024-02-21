@@ -1,2 +1,2 @@
-The Digimod 
-A mod that adds digimon to raise in Minecraft
+The DigiMod Spawn Rate Fix
+A fix to adjust spawn rates by evolutionary stage, making stronger Digimon rarer and weaker Digimon more common.
